@@ -1,0 +1,67 @@
+/* BBQ Chicken Recipe Stylesheet */
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff5e6;
+  color: #333333;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Header */
+#main-header {
+  background-color: #b5451b;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Image */
+img {
+  display: block;
+  margin: 20px auto;
+  width: 400px;
+  border: 3px solid #b5451b;
+}
+
+/* Section headings */
+h2 {
+  color: #b5451b;
+  border-bottom: 2px solid #b5451b;
+  padding-bottom: 5px;
+}
+
+/* Ingredients, Procedure and Nutrition sections */
+#ingredients,
+#procedure,
+#nutrition {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #ddd;
+}
+
+/* List items */
+li {
+  margin-bottom: 8px;
+}
+
+/* Hover effect on list items */
+li:hover {
+  background-color: #ffe0c0;
+}
+
+/* Footer */
+#main-footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #b5451b;
+  color: white;
+  margin-top: 20px;
+}
+
+/* Link */
+a {
+  color: #f4a634;
+}
